@@ -1,0 +1,15 @@
+# Ignorar dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Logs
+*.log
+
+# Diretórios de build
+dist/
+build/
+
+# Configurações do editor
+.vscode/
